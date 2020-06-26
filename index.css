@@ -140,7 +140,7 @@ header table {
 .social:hover { 
     cursor: pointer;
     color:#fff;
-    background:rgb(49, 46, 255);
+    background:rgb(89, 255, 180);
     box-shadow:0px 10px 30px rgba(89, 255, 180, 0.8);
 }
 .btn_one {
@@ -157,7 +157,7 @@ header table {
     transition:0.4s ease-in-out;
 }
 .btn_one:hover {
-    box-shadow:0px 10px 30px rgba(49, 46, 255, 0.8);
+    box-shadow:0px 10px 30px rgba(89, 255, 180, 0.8);
     cursor:pointer;
     color:#fff;
     background:rgb(49, 46, 255);
@@ -356,12 +356,12 @@ button:focus {
     padding:6px 30px;
     width:60%;
     margin:4vh auto;
-    box-shadow:0px 10px 20px rgba(49, 46, 255, 0.8);
+    box-shadow:0px 10px 20px rgba(89, 255, 180, 0.8);
     background:rgb(49, 46, 255);
     color:#fff;
     }
     .btn_one:hover {
-        box-shadow:0px 10px 40px rgba(49, 46, 255, 0.8);
+        box-shadow:0px 10px 40px rgba(89, 255, 180, 0.8);
         cursor:pointer;
     }
     #contact table tr td {
