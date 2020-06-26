@@ -160,7 +160,7 @@ header table {
     box-shadow:0px 10px 30px rgba(89, 255, 180, 0.8);
     cursor:pointer;
     color:#fff;
-    background:rgb(49, 46, 255);
+    background:rgb(89, 255, 180);
 }
 #rightImage {
     width:100%;
@@ -357,7 +357,7 @@ button:focus {
     width:60%;
     margin:4vh auto;
     box-shadow:0px 10px 20px rgba(89, 255, 180, 0.8);
-    background:rgb(49, 46, 255);
+    background:rgb(89, 255, 180);
     color:#fff;
     }
     .btn_one:hover {
