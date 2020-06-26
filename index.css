@@ -126,27 +126,7 @@ header table {
     width:20% !important;
     text-align:left;
 }
-#research {
-    width:84% !important;
-    height:95vh;
-    display:flex;
-    flex-direction:column;
-    justify-content:center;
-    text-align:left;
-    padding:0px 8%;
-}
-#research h1 {
-    font-size:45px;
-    word-wrap:break-word;
-}
-#research table {
-    width:70%;
-    margin-top:4vh;
-}
-#research table tr td {
-    width:20% !important;
-    text-align:left;
-}
+
 .social {
     color:rgb(255, 44, 90);
     font-size:23px;
@@ -226,6 +206,18 @@ header table {
     border-bottom:4px solid rgb(255, 44, 90);
     width:8%;
 }
+
+#research {
+    width:92vw;
+    padding:6vh 4vw;
+    font-weight:bold;
+}
+#research h1 {
+    padding:5px 0px;
+    border-bottom:4px solid rgb(255, 44, 90);
+    width:8%;
+}
+
 #contact {
     width:92vw;
     padding:6vh 4vw;
