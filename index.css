@@ -161,6 +161,7 @@ header table {
     cursor:pointer;
     color:#fff;
     background:rgb(89, 255, 180);
+    border: 3px solid rgb(89, 255, 180);
 }
 #rightImage {
     width:100%;
