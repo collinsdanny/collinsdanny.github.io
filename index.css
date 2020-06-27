@@ -239,9 +239,11 @@ header table {
 }
 #inner_div table tr td{
     font-weight:bold;
+    vertical-align: middle;
 }
 #inner_table tr td{
-    padding:10px 20px !important;
+    padding:20px 20px !important;
+    vertical-align: middle;
 }
 #contact form {
     width:100%;
@@ -369,9 +371,9 @@ button:focus {
         width:100%;
         display:block;
     }
-    #inner_table tr td{
-        padding:10px 0px !important;
-    }
+    /*#inner_table tr td{*/
+    /*    padding:10px 0px !important;*/
+    /*}*/
     #contact form input {
         width:90%;
     }
